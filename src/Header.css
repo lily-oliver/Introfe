@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    flex-direction: column;
+    background-image: url(demi-deherrera-L-sm1B4L1Ns-unsplash.jpg);
+    max-width: 100%;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 70px;
+    letter-spacing: .7rem;
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: 'Raleway', sans-serif;
+}
